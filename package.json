@@ -43,5 +43,9 @@
     "jest": "^20.0.4",
     "npm-run-all": "^4.0.2",
     "rimraf": "^2.6.1"
+  },
+  "dependencies": {
+    "react-navigation": "^1.0.0-beta.11",
+    "react-redux": "^5.0.6"
   }
 }
