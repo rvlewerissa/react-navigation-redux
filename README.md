@@ -57,11 +57,15 @@ Here are some of the basic actions you can do:
 }
 ```
 
-Other types are:
-* **INIT** = "Navigation/INIT";
-* **RESET** = "Navigation/RESET";
-* **SET_PARAMS** = "Navigation/SET_PARAMS";
-* **URI** = "Navigation/URI";
+Basically the action types are:
 
+| Action Type             |
+| ----------------------- |
+| "Navigation/NAVIGATE"   |
+| "Navigation/BACK"   |
+| "Navigation/INIT"       |
+| "Navigation/RESET"      |
+| "Navigation/SET_PARAMS" |
+| "Navigation/URI"        |
 
 ## That's it! :)
